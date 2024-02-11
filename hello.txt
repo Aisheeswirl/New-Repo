@@ -1,0 +1,13 @@
+Creat git repo:
+remo:
+1.github e repo toiri
+
+local:
+2.computer e folder toiri  
+3.files and folders toiri
+4.git inti 
+5.git add.
+6.git commit -m "first  commit"
+7.git branch -M main
+
+local  <=>
